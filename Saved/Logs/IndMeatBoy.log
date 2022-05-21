@@ -895,3 +895,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.21-17.16.52:193][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2022.05.21-17.16.52:195][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.05.21-17.16.52:283][  5]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.21-17.18.36:038][223]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.05.21-17.18.36:044][223]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.05.21-17.18.36:658][297]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2022.05.21-17.18.36:659][297]LogContentBrowser: End creating deferred item NewMaterial
+[2022.05.21-17.18.37:078][341]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.21-17.18.37:090][341]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/JAM/NewMaterial.NewMaterial
+[2022.05.21-17.18.37:091][341]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E1CF5886658C3C2D00AB8D1C80310B448347129A), compiling. 
+[2022.05.21-17.18.37:115][341]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.05.21-17.18.37:120][341]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.05.21-17.18.37:208][341]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.05.21-17.18.37:350][341]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3E5675B8F5BBBE7E0F93A5B94BD0E148C456A1B4), compiling. 
+[2022.05.21-17.18.37:360][341]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.21-17.18.37:362][341]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.21-17.18.37:391][341]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.21-17.18.37:391][341]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.05.21-17.18.37:391][341]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.05.21-17.18.37:391][341]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.05.21-17.18.37:391][341]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.05.21-17.18.37:391][341]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.21-17.18.37:391][341]LogSlate: Took 0.000507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.21-17.18.38:952][514]LogSlate: Window 'NewMaterial' being destroyed
+[2022.05.21-17.18.38:957][514]LogSlate: Window 'NewMaterial' being destroyed
+[2022.05.21-17.18.38:961][514]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.21-17.18.38:961][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-17.18.39:858][604]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.05.21-17.18.39:858][604]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.21-17.18.40:906][684]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.05.21-17.18.40:906][684]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
