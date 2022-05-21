@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "IndianaMeatBoyEditor Editor Win64 Development (IndianaMeatBoy)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\C++ TRAINING\\1. OWN PROJECTS\\IndianaMeatBoy\\.vscode\\compileCommands_IndianaMeatBoy.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\C++ TRAINING\\1. OWN PROJECTS\\IndianaMeatBoy\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
